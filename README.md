@@ -1,7 +1,5 @@
 # -java-ax-B-0
-1，java 编写 ax+B=0(a不等于0)的根
-
-
+java 编写 ax+B=0(a不等于0)的根
 
 
 
@@ -29,10 +27,7 @@ if(Math.abs(a)>0.000001f)
 x=-b/a;
 System.out.println("x="+x);
 }
-
-
-
 }   
-
-
 }
+
+
